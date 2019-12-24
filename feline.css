@@ -4,6 +4,8 @@
 	color: white;
 	padding-left: 5em;
 }
+html{
+	width:100%;
 h1{
 	padding-top: 4em;
 	font-size: 5em;
@@ -12,7 +14,6 @@ h1{
 body{
 	background:url(https://images.unsplash.com/photo-1489712310660-bbce44cc541d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1356&q=80);
 	background-size: cover;
-	padding-bottom: 30em;
 	background-position-y:30%;
 	background-position-x:50%; 
 
