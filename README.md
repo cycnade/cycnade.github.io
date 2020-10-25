@@ -1,2 +1,2 @@
 # social-app
-visit : https://cycnade.github.io/social-app/.
+visit : https://farazkhawaja.github.io/social-app/.
